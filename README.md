@@ -25,7 +25,7 @@ The dashboard is built using Tableau Public and includes interactive visuals tha
 
 ## 📁 Files
 
-- `Screenshot.png`: A static image of the dashboard
+- `Screenshot (64).png': A static image of the dashboard
 - Tableau workbook (`.twbx`) - *[Add this file if available]*
 - `README.md`: Project documentation (you are here!)
 
