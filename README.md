@@ -43,4 +43,4 @@ The dashboard is built using Tableau Public and includes interactive visuals tha
 
 ## 🌐 Dashboard Snapshot
 
-
+- <a href="https://github.com/nextgautam/Data_Scientists_Salaries_Analysis/blob/main/Screenshot%20(64).png">Click Here</a>
