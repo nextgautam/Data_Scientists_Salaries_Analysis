@@ -31,12 +31,12 @@ The dashboard is built using Tableau Public and includes interactive visuals tha
 
 ## 📌 Tools Used
 
-- Tableau Public – For data visualization and dashboard design
-- OpenStreetMap + Mapbox – For mapping salary data geographically
+- **Tableau Public** – For data visualization and dashboard design
+- **OpenStreetMap + Mapbox** – For mapping salary data geographically
 
 ## 📈 Insights Derived
 
-- Senior-level positions dominate the dataset (46.13%)
+- Senior-level positions dominate the dataset **(46.13%)**
 - Full-time roles show the most salary variation across experience levels
 - US-based employees lead in count and salary averages
 - Medium-sized companies are most represented in the dataset
